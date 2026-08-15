@@ -1,3 +1,5 @@
 .work/
+.work2/
 .build.log
+.gen.log
 .DS_Store
